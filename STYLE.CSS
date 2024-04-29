@@ -1,0 +1,31 @@
+/* # Add{
+    color: rgb(56, 58, 62);
+}*/
+
+.style{
+    padding: 5px;
+    margin: 100px;
+
+    
+}
+h1 {
+    text-align:justify;
+    text-decoration: none;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+/*#todolist{
+    background-color: black;
+}*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(37, 45, 45);
+    background-color: rgb(139, 145, 152);
+}
+
+#todolist {
+  
+    background-color: rgb(233, 233, 238);
+}
